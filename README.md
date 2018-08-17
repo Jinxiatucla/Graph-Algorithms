@@ -15,3 +15,7 @@ Instruction
 2. Part 1 (Question 1- Question 5) is done in python.
 3. Part 2 (Quetsion 6 - Question 10) is done in R.
 4. Part 3 (Question 11 - Question 15) is done in .
+
+Contributors:
+---
+Committed by Jinxi Zou, Qinyi Tang, Shuo Bai, Xuan Hu. Original project page: https://github.com/bai3shuo4/232E/tree/master/Project5
